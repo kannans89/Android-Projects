@@ -1,3 +1,3 @@
 # Projects
 
-Currently, this repo contains only Android Studio files.
+Some android apps made using Android Studio.
